@@ -6,4 +6,5 @@
 # About Me
 
 ### 鍾崴亦 Howard
-
+* **Master**, Department of Big-Data Management, Soochow University,
+* **Bachelor**, Department of Big-Data Management, Soochow University, 2020/06
