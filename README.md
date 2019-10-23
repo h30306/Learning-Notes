@@ -4,6 +4,7 @@
 * [Data-Mining Course (19AW)](https://github.com/h30306/Learning-Notes/tree/master/data-mining)
   * [Tidy-Data](https://github.com/h30306/Learning-Notes/blob/master/data-mining/tidy-data/Tidy-data.ipynb)
 * [Django](https://github.com/h30306/Learning-Notes/tree/master/Django)
+* [OCR](https://github.com/h30306/Learning-Notes/tree/master/OCR)
 
 # About Me
 
