@@ -7,7 +7,7 @@
 * [OCR](https://github.com/h30306/Learning-Notes/tree/master/OCR)
 * [Financial cognition](https://github.com/h30306/Learning-Notes/tree/master/Financial%20cognition)
 * [LeetCode](https://github.com/h30306/Learning-Notes/tree/master/Leetcode)
-
+* [Coding Tips](https://github.com/h30306/Learning-Notes/tree/master/Coding-tips)
 # About Me
 
 ### 鍾崴亦 Howard
