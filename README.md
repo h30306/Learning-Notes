@@ -2,7 +2,7 @@
 > Welcome to my learning notes!
 > You can find all project I've done and source code here
 * [Data-Mining Course (19AW)](https://github.com/h30306/Learning-Notes/tree/master/data-mining)
-  * [Tidy-Data]()
+  * [Tidy-Data](https://github.com/h30306/Learning-Notes/blob/master/data-mining/tidy-data/Tidy-data.ipynb)
 
 # About Me
 
