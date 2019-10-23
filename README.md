@@ -6,6 +6,7 @@
 * [Django](https://github.com/h30306/Learning-Notes/tree/master/Django)
 * [OCR](https://github.com/h30306/Learning-Notes/tree/master/OCR)
 * [Financial cognition](https://github.com/h30306/Learning-Notes/tree/master/Financial%20cognition)
+* [LeetCode](https://github.com/h30306/Learning-Notes/tree/master/Leetcode)
 
 # About Me
 
