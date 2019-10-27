@@ -1,3 +1,4 @@
 # Data-Mining Course (19AW)
 ### The Notes and Homework of this course
-* week1 : [tidy-data](https://github.com/h30306/Learning-Notes/blob/master/data-mining/tidy-data/Tidy-data.ipynb)
+* HW1 : [tidy-data](https://github.com/h30306/Learning-Notes/blob/master/data-mining/tidy-data/Tidy-data.ipynb)
+* HW2 : [d-tree](https://github.com/h30306/Learning-Notes/blob/master/data-mining/decision-tree/d-tree%20NBA.ipynb)
