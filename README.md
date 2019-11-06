@@ -4,6 +4,7 @@
 * [Data-Mining Course (19AW)](https://github.com/h30306/Learning-Notes/tree/master/data-mining)
   * [Tidy-Data](https://github.com/h30306/Learning-Notes/blob/master/data-mining/tidy-data/Tidy-data.ipynb)
   * [Decision Tree](https://github.com/h30306/Learning-Notes/blob/master/data-mining/decision-tree/d-tree%20NBA.ipynb)
+  * [Apiori](https://github.com/h30306/Learning-Notes/blob/master/data-mining/Apiori/Apiori.ipynb)
 * [Django](https://github.com/h30306/Learning-Notes/tree/master/Django)
 * [OCR](https://github.com/h30306/Learning-Notes/tree/master/OCR)
 * [Financial cognition](https://github.com/h30306/Learning-Notes/tree/master/Financial%20cognition)
