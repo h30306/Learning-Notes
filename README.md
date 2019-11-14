@@ -9,7 +9,6 @@
 * [Django](https://github.com/h30306/Learning-Notes/tree/master/Django)
 * [Image Processing]()
   * [OCR](https://github.com/h30306/Learning-Notes/tree/master/OCR)
-   * [Py-tesseract]()
   * [RAISR]()
   * [Removing Backgrounds]()
 * [Financial cognition](https://github.com/h30306/Learning-Notes/tree/master/Financial%20cognition)
