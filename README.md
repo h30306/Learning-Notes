@@ -7,6 +7,7 @@
   * [Apiori](https://github.com/h30306/Learning-Notes/blob/master/data-mining/Apiori/Apiori.ipynb)
   * [PCA]()
 * [Django](https://github.com/h30306/Learning-Notes/tree/master/Django)
+  * [Deploy ML Model](https://github.com/h30306/Learning-Notes/tree/master/Django/Deploy_ML)
 * [Image Processing]()
   * [OCR](https://github.com/h30306/Learning-Notes/tree/master/OCR)
   * [RAISR]()
