@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    {% if messages %}
+        {% for message in messages %}
+            <div>
+                <strong>{{message|safe}}</strong>
+            </div>
+        {% endfor %}
+    {% else %}
+    {{order}}
+
+    <form action="" method="POST" enctype="multipart/form-data">
+        {% csrf_token %}
+        <label for="file1">上傳檔案:</label>
+        <input type="file" id="file1" name="file">
+        <button type="submit">上傳</button>
+    </form>
+
+    <form action="/upload-csv/ML" method="post">
+        {% csrf_token %}
+        <label for="file_name">輸入欲預測的檔名(不需加".csv"): </label>
+        <input id="file_name" type="text" name="file_name" value="{{ file_name }}">
+        <input type="submit" name="model_name"value="Linear">
+        <input type="submit" name="model_name"value="SGD">
+    </form>
+    <p1>exsist file:</p1>
+    {% endif %}
+    {% for profile in profiles %}
+    {{profile.name}}
+    {% endfor %}
+</body>
+</html>
