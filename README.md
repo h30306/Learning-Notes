@@ -10,7 +10,7 @@
   * [Deploy ML Model](https://github.com/h30306/Learning-Notes/tree/master/Django/Deploy_ML)
 * [Image Processing]()
   * [OCR](https://github.com/h30306/Learning-Notes/tree/master/OCR)
-  * [RAISR]()
+  * [RAISR-Improve resolution]()
   * [Removing Backgrounds]()
 * [Financial cognition](https://github.com/h30306/Learning-Notes/tree/master/Financial%20cognition)
 * [LeetCode](https://github.com/h30306/Learning-Notes/tree/master/Leetcode)
