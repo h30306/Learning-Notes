@@ -5,7 +5,7 @@
   * [Tidy-Data](https://github.com/h30306/Learning-Notes/blob/master/data-mining/tidy-data/Tidy-data.ipynb)
   * [Decision Tree](https://github.com/h30306/Learning-Notes/blob/master/data-mining/decision-tree/d-tree%20NBA.ipynb)
   * [Apiori](https://github.com/h30306/Learning-Notes/blob/master/data-mining/Apiori/Apiori.ipynb)
-  * [PCA]()
+  * [PCA](https://github.com/h30306/Learning-Notes/blob/master/data-mining/PCA/PCA.ipynb)
 * [Django](https://github.com/h30306/Learning-Notes/tree/master/Django)
   * [Deploy ML Model](https://github.com/h30306/Learning-Notes/tree/master/Django/Deploy_ML)
 * [Image Processing]()
