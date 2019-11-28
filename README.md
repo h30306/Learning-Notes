@@ -6,6 +6,7 @@
   * [Decision Tree](https://github.com/h30306/Learning-Notes/blob/master/data-mining/decision-tree/d-tree%20NBA.ipynb)
   * [Apiori](https://github.com/h30306/Learning-Notes/blob/master/data-mining/Apiori/Apiori.ipynb)
   * [PCA](https://github.com/h30306/Learning-Notes/blob/master/data-mining/PCA/PCA.ipynb)
+  * [text-visualization](https://github.com/h30306/Learning-Notes/blob/master/data-mining/text-visulization/text-visualization.ipynb)
 * [Django](https://github.com/h30306/Learning-Notes/tree/master/Django)
   * [Deploy ML Model](https://github.com/h30306/Learning-Notes/tree/master/Django/Deploy_ML)
 * [Image Processing]()
