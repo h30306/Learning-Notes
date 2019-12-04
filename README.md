@@ -7,7 +7,7 @@
   * [Apiori](https://github.com/h30306/Learning-Notes/blob/master/data-mining/Apiori/Apiori.ipynb)
   * [PCA](https://github.com/h30306/Learning-Notes/blob/master/data-mining/PCA/PCA.ipynb)
   * [text-visualization](https://github.com/h30306/Learning-Notes/blob/master/data-mining/text-visulization/text-visualization.ipynb)
-  * [text nbv](https://nbviewer.jupyter.org/github/h30306/Learning-Notes/blob/master/data-mining/text-visulization/text-visualization.ipynb)
+  * [Politics Analysis]()
 * [Django](https://github.com/h30306/Learning-Notes/tree/master/Django)
   * [Deploy ML Model](https://github.com/h30306/Learning-Notes/tree/master/Django/Deploy_ML)
 * [Image Processing]()
