@@ -8,6 +8,7 @@
   * [PCA](https://github.com/h30306/Learning-Notes/blob/master/data-mining/PCA/PCA.ipynb)
   * [text-visualization](https://github.com/h30306/Learning-Notes/blob/master/data-mining/text-visulization/text-visualization.ipynb)
   * [Politics Analysis](https://github.com/h30306/Learning-Notes/blob/master/data-mining/Politics%20Analysis/Politics%20Analasis.ipynb)
+  * [Forggy Analysis Final](https://github.com/h30306/Learning-Notes/blob/master/data-mining/Politics%20Analysis/Politics%20Analasis.ipynb)
   * [Paper](https://github.com/h30306/Learning-Notes/blob/master/data-mining/論文報告attention.pdf)
 * [Django](https://github.com/h30306/Learning-Notes/tree/master/Django)
   * [Deploy ML Model](https://github.com/h30306/Learning-Notes/tree/master/Django/Deploy_ML)
