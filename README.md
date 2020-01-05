@@ -12,6 +12,8 @@
   * [Paper](https://github.com/h30306/Learning-Notes/blob/master/data-mining/論文報告attention.pdf)
 * [Django](https://github.com/h30306/Learning-Notes/tree/master/Django)
   * [Deploy ML Model](https://github.com/h30306/Learning-Notes/tree/master/Django/Deploy_ML)
+* [kaggle](https://github.com/h30306/Learning-Notes/tree/master/Kaggle)
+  * [Airbnb New User Booking](https://github.com/h30306/Learning-Notes/tree/master/Kaggle/Airbnb)
 * [Image Processing]()
   * [OCR](https://github.com/h30306/Learning-Notes/tree/master/OCR)
   * [RAISR-Improve resolution](https://github.com/h30306/Learning-Notes/tree/master/RAISR)
