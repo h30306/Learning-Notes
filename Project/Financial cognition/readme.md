@@ -4,5 +4,5 @@ Use facial recognition to detect changes in the expressions of investors when re
 
 in this folder you can see:
 * CNN Model : face recognition for yes/no in cognitive impairment with train and test file
-    * [train model](https://github.com/h30306/Learning-Notes/blob/master/Financial%20cognition/CNN_train.ipynb)
-    * [test model](https://github.com/h30306/Learning-Notes/blob/master/Financial%20cognition/CNN_test.ipynb)
+    * [train model](https://github.com/h30306/Learning-Notes/blob/master/Project/Financial%20cognition/CNN_train.ipynb)
+    * [test model](https://github.com/h30306/Learning-Notes/blob/master/Project/Financial%20cognition/CNN_test.ipynb)
