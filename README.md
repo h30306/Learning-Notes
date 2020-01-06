@@ -14,13 +14,13 @@
 * [kaggle](https://github.com/h30306/Learning-Notes/tree/master/Kaggle)
   * [Airbnb New User Booking](https://github.com/h30306/Learning-Notes/tree/master/Kaggle/Airbnb)★Provide the Hierarchical XGBoosting model for solution!!
 * [Self-Study](https://github.com/h30306/Learning-Notes/tree/master/Self-Study)
-  * [Django](https://github.com/h30306/Learning-Notes/tree/master/Django)
-    * [Deploy ML Model on Website](https://github.com/h30306/Learning-Notes/tree/master/Django/Deploy_ML)
+  * [Django](https://github.com/h30306/Learning-Notes/tree/master/Self-Study/Django)
+    * [Deploy ML Model on Website](https://github.com/h30306/Learning-Notes/tree/master/Self-Study/Django/Deploy_ML)
   * [Image Processing]()
-    * [OCR](https://github.com/h30306/Learning-Notes/tree/master/OCR)
-    * [Improve resolution](https://github.com/h30306/Learning-Notes/tree/master/RAISR)★Coolest code Ever!!
-  * [NLP](https://github.com/h30306/Learning-Notes/tree/master/NLP)
-    * [Get Subject in Taipei City Open Data Description](https://github.com/h30306/Learning-Notes/tree/master/NLP/Subject)
+    * [OCR](https://github.com/h30306/Learning-Notes/tree/master/Self-Study/OCR)
+    * [Improve resolution](https://github.com/h30306/Learning-Notes/tree/master/Self-Study/RAISR)★Coolest code Ever!!
+  * [NLP](https://github.com/h30306/Learning-Notes/tree/master/Self-Study/NLP)
+    * [Get Subject in Taipei City Open Data Description](https://github.com/h30306/Learning-Notes/tree/master/Self-Study/NLP/Subject)
 * [Project](https://github.com/h30306/Learning-Notes/tree/master/Project)
   * [Financial Cognition](https://github.com/h30306/Learning-Notes/tree/master/Financial%20cognition)★Recognizer train by me and my friends face!!
   * [Sentiment Analysis Using Snow NLP](https://github.com/h30306/Learning-Notes/tree/master/Snow%20NLP)
