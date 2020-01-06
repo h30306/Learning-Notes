@@ -22,8 +22,8 @@
   * [NLP](https://github.com/h30306/Learning-Notes/tree/master/Self-Study/NLP)
     * [Get Subject in Taipei City Open Data Description](https://github.com/h30306/Learning-Notes/tree/master/Self-Study/NLP/Subject)
 * [Project](https://github.com/h30306/Learning-Notes/tree/master/Project)
-  * [Financial Cognition](https://github.com/h30306/Learning-Notes/tree/master/Financial%20cognition)★Recognizer train by me and my friends face!!
-  * [Sentiment Analysis Using Snow NLP](https://github.com/h30306/Learning-Notes/tree/master/Snow%20NLP)
+  * [Financial Cognition](https://github.com/h30306/Learning-Notes/tree/master/Project/Financial%20cognition)★Recognizer train by me and my friends face!!
+  * [Sentiment Analysis Using Snow NLP](https://github.com/h30306/Learning-Notes/tree/master/Project/Snow%20NLP)
 * [LeetCode](https://github.com/h30306/Learning-Notes/tree/master/Leetcode)
 * [Coding Tips](https://github.com/h30306/Learning-Notes/tree/master/Coding-tips)
 
