@@ -9,7 +9,7 @@
   * [PCA](https://github.com/h30306/Learning-Notes/blob/master/data-mining/PCA/PCA.ipynb)
   * [text-visualization](https://nbviewer.jupyter.org/github/h30306/Learning-Notes/blob/master/data-mining/text-visulization/text-visualization.ipynb) ★Dynamic bar chart with matolotlib!
   * [Politics Analysis](https://github.com/h30306/Learning-Notes/blob/master/data-mining/Politics%20Analysis/Politics%20Analasis.ipynb)
-  * [Forggy Analysis Final](https://nbviewer.jupyter.org/github/h30306/Learning-Notes/blob/master/data-mining/Politics%20Analysis/Politics%20Analasis.ipynb)★
+  * [Forggy Analysis Final](https://nbviewer.jupyter.org/github/h30306/Learning-Notes/blob/master/data-mining/Politics%20Analysis/Politics%20Analasis.ipynb)★BERT and PCA for artical!
   * [Paper](https://github.com/h30306/Learning-Notes/blob/master/data-mining/論文報告attention.pdf)
 * [kaggle](https://github.com/h30306/Learning-Notes/tree/master/Kaggle)
   * [Airbnb New User Booking](https://github.com/h30306/Learning-Notes/tree/master/Kaggle/Airbnb)
