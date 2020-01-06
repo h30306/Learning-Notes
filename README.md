@@ -16,9 +16,9 @@
 * [Self-Study](https://github.com/h30306/Learning-Notes/tree/master/Self-Study)
   * [Django](https://github.com/h30306/Learning-Notes/tree/master/Self-Study/Django)
     * [Deploy ML Model on Website](https://github.com/h30306/Learning-Notes/tree/master/Self-Study/Django/Deploy_ML)
-  * [Image Processing]()
-    * [OCR](https://github.com/h30306/Learning-Notes/tree/master/Self-Study/OCR)
-    * [Improve resolution](https://github.com/h30306/Learning-Notes/tree/master/Self-Study/RAISR)★Coolest code Ever!!
+  * [Image Processing](https://github.com/h30306/Learning-Notes/tree/master/Self-Study/Image-Processing)
+    * [OCR](https://github.com/h30306/Learning-Notes/tree/master/Self-Study/Image-Processing/OCR)
+    * [Improve resolution](https://github.com/h30306/Learning-Notes/tree/master/Self-Study/Image-Processing)
   * [NLP](https://github.com/h30306/Learning-Notes/tree/master/Self-Study/NLP)
     * [Get Subject in Taipei City Open Data Description](https://github.com/h30306/Learning-Notes/tree/master/Self-Study/NLP/Subject)
 * [Project](https://github.com/h30306/Learning-Notes/tree/master/Project)
