@@ -20,7 +20,7 @@
     * [RAISR-Improve resolution](https://github.com/h30306/Learning-Notes/tree/master/RAISR)
 * Project
   * [Financial cognition](https://github.com/h30306/Learning-Notes/tree/master/Financial%20cognition)
-  * [Sentiment Analysis Using Snow NLP]()
+  * [Sentiment Analysis Using Snow NLP](https://github.com/h30306/Learning-Notes/tree/master/Snow%20NLP)
 * [LeetCode](https://github.com/h30306/Learning-Notes/tree/master/Leetcode)
 * [Coding Tips](https://github.com/h30306/Learning-Notes/tree/master/Coding-tips)
 
