@@ -30,8 +30,8 @@ I hope to have practical experience in a lot of different aspects and have a dee
 * [my resume](https://github.com/h30306/Learning-Notes/blob/master/other/English%20Resume.pdf)
 #### 鍾崴亦 Howard,Chung
 My motto:
-If one day is not improving, it is going backwards
-
+If one day is not improving, it is going backwards!
+## Education
 * **Master**, Department of Big-Data Management, Soochow University,
 * **Bachelor**, Department of Big-Data Management, Soochow University, 2020/06
 
