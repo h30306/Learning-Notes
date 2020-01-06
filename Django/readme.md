@@ -1,5 +1,6 @@
 # Deploy Precdiction model(ML/DL) on websit
-Continuously updated！
+> you can upload the csv file with column x and y, then predict the y value by SGD regression or Linear regression
+Continuously updated！I will complete the output dashboard and deploy more and complex machine learning model such as XGB,RF on the website!
 ## Install and run
 ### 1.Download from github
 ```
