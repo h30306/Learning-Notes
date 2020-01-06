@@ -31,7 +31,7 @@
 My motto:
 If there is one day is not improving, it is going backwards!
 ## Education
-* **Master**, Department of Big-Data Management, Soochow University,Expected graduate in 2021/6
+* **Master**, Department of Big-Data Management, Soochow University,Expected to graduate in 2021/6
 * **Bachelor**, Department of Big-Data Management, Soochow University, 2020/06
 
 ## Work Experience 
