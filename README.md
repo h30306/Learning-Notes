@@ -1,4 +1,4 @@
-## Learning-Notes
+# Learning-Notes
 > Welcome to my learning notes!
 > You can find all project I've done and source code here
 * [Data-Mining Course (19AW)](https://github.com/h30306/Learning-Notes/tree/master/data-mining)
@@ -20,6 +20,7 @@
     * [RAISR-Improve resolution](https://github.com/h30306/Learning-Notes/tree/master/RAISR)
 * Project
   * [Financial cognition](https://github.com/h30306/Learning-Notes/tree/master/Financial%20cognition)
+  * [Sentiment Analysis Using Snow NLP]()
 * [LeetCode](https://github.com/h30306/Learning-Notes/tree/master/Leetcode)
 * [Coding Tips](https://github.com/h30306/Learning-Notes/tree/master/Coding-tips)
 
