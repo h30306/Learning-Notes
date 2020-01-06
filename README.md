@@ -1,6 +1,8 @@
 # Learning-Notes
 > Welcome to my learning notes!
 > You can find all project I've done and source code here
+I hope to have practical experience in a lot of different aspects and have a deeper research in computer vision and natural language processing
+
 * [Data-Mining Course (19AW)](https://github.com/h30306/Learning-Notes/tree/master/data-mining)
   * [Tidy-Data](https://github.com/h30306/Learning-Notes/blob/master/data-mining/tidy-data/Tidy-data.ipynb)
   * [Decision Tree](https://github.com/h30306/Learning-Notes/blob/master/data-mining/decision-tree/d-tree%20NBA.ipynb)
@@ -27,6 +29,8 @@
 ## About Me
 * [my resume](https://github.com/h30306/Learning-Notes/blob/master/other/English%20Resume.pdf)
 #### 鍾崴亦 Howard,Chung
+My motto:
+If one day is not improving, it is going backwards
 
 * **Master**, Department of Big-Data Management, Soochow University,
 * **Bachelor**, Department of Big-Data Management, Soochow University, 2020/06
