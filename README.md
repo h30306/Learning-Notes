@@ -15,7 +15,7 @@
   * [Airbnb New User Booking](https://github.com/h30306/Learning-Notes/tree/master/Kaggle/Airbnb)
 * Self-Study
   * [Django](https://github.com/h30306/Learning-Notes/tree/master/Django)
-    * [Deploy ML Model](https://github.com/h30306/Learning-Notes/tree/master/Django/Deploy_ML)
+    * [Deploy ML Model on Website](https://github.com/h30306/Learning-Notes/tree/master/Django/Deploy_ML)
   * [Image Processing]()
     * [OCR](https://github.com/h30306/Learning-Notes/tree/master/OCR)
     * [RAISR-Improve resolution](https://github.com/h30306/Learning-Notes/tree/master/RAISR)
