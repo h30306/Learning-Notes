@@ -10,15 +10,16 @@
   * [Politics Analysis](https://github.com/h30306/Learning-Notes/blob/master/data-mining/Politics%20Analysis/Politics%20Analasis.ipynb)
   * [Forggy Analysis Final](https://nbviewer.jupyter.org/github/h30306/Learning-Notes/blob/master/data-mining/Politics%20Analysis/Politics%20Analasis.ipynb)
   * [Paper](https://github.com/h30306/Learning-Notes/blob/master/data-mining/論文報告attention.pdf)
-* [Self-Study]
-  * [Django](https://github.com/h30306/Learning-Notes/tree/master/Django)
-    * [Deploy ML Model](https://github.com/h30306/Learning-Notes/tree/master/Django/Deploy_ML)
 * [kaggle](https://github.com/h30306/Learning-Notes/tree/master/Kaggle)
   * [Airbnb New User Booking](https://github.com/h30306/Learning-Notes/tree/master/Kaggle/Airbnb)
-* [Image Processing]()
-  * [OCR](https://github.com/h30306/Learning-Notes/tree/master/OCR)
-  * [RAISR-Improve resolution](https://github.com/h30306/Learning-Notes/tree/master/RAISR)
-* [Financial cognition](https://github.com/h30306/Learning-Notes/tree/master/Financial%20cognition)
+* Self-Study
+  * [Django](https://github.com/h30306/Learning-Notes/tree/master/Django)
+    * [Deploy ML Model](https://github.com/h30306/Learning-Notes/tree/master/Django/Deploy_ML)
+  * [Image Processing]()
+    * [OCR](https://github.com/h30306/Learning-Notes/tree/master/OCR)
+    * [RAISR-Improve resolution](https://github.com/h30306/Learning-Notes/tree/master/RAISR)
+* Project
+  * [Financial cognition](https://github.com/h30306/Learning-Notes/tree/master/Financial%20cognition)
 * [LeetCode](https://github.com/h30306/Learning-Notes/tree/master/Leetcode)
 * [Coding Tips](https://github.com/h30306/Learning-Notes/tree/master/Coding-tips)
 
