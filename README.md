@@ -1,6 +1,6 @@
 # Learning-Notes
 > Welcome to my learning notes!
-> You can find all project I've done and source code here,I hope to have practical experience in a lot of different aspects and have a deeper research in computer vision and natural language processing
+> You can find all project I've done and source code here,I hope to have practical experience in a lot of different aspects and have a deeper research in computer vision and natural language processing！
 
 * [Data-Mining Course (19AW)](https://github.com/h30306/Learning-Notes/tree/master/data-mining)
   * [Tidy-Data](https://github.com/h30306/Learning-Notes/blob/master/data-mining/tidy-data/Tidy-data.ipynb)
