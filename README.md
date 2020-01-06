@@ -28,11 +28,12 @@
 * [Coding Tips](https://github.com/h30306/Learning-Notes/tree/master/Coding-tips)
 
 ## About Me
-* [My Resume](https://github.com/h30306/Learning-Notes/blob/master/other/English%20Resume.pdf)
-* [My LinkedIn](https://www.linkedin.com/in/howard-chung-2a2686180)
+
 #### 鍾崴亦 Howard,Chung
 My motto:
 If there is one day is not improving, it is going backwards!
+* [My Resume](https://github.com/h30306/Learning-Notes/blob/master/other/English%20Resume.pdf)
+* [My LinkedIn](https://www.linkedin.com/in/howard-chung-2a2686180)
 ## Education
 * **Master**, Department of Big-Data Management, Soochow University,Expected to graduate in 2021/6
 * **Bachelor**, Department of Big-Data Management, Soochow University, 2020/06
