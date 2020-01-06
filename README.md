@@ -39,9 +39,3 @@ If one day is not improving, it is going backwards!
 * **Automatic Speech Recognition Summer Intern**, Delta Speech Team, 2019/07 to 2019/08
 * **Research assistant**, IF.Lab, 2018/05 to 2019/9
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-```
