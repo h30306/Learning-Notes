@@ -22,7 +22,7 @@
 * [Coding Tips](https://github.com/h30306/Learning-Notes/tree/master/Coding-tips)
 
 ## About Me
-
+* [my resume](https://github.com/h30306/Learning-Notes/blob/master/other/English%20Resume.pdf)
 #### 鍾崴亦 Howard,Chung
 
 * **Master**, Department of Big-Data Management, Soochow University,
