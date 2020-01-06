@@ -19,6 +19,8 @@
   * [Image Processing]()
     * [OCR](https://github.com/h30306/Learning-Notes/tree/master/OCR)
     * [Improve resolution](https://github.com/h30306/Learning-Notes/tree/master/RAISR)★Coolest code Ever!!
+  * [NLP](https://github.com/h30306/Learning-Notes/tree/master/NLP)
+    * [Get Subject in Taipei City Open Data Description](https://github.com/h30306/Learning-Notes/tree/master/NLP/Subject)
 * Project
   * [Financial Cognition](https://github.com/h30306/Learning-Notes/tree/master/Financial%20cognition)★Recognizer train by me and my friends face!!
   * [Sentiment Analysis Using Snow NLP](https://github.com/h30306/Learning-Notes/tree/master/Snow%20NLP)
