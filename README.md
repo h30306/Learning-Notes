@@ -7,7 +7,7 @@
   * [Decision Tree](https://github.com/h30306/Learning-Notes/blob/master/data-mining/decision-tree/d-tree%20NBA.ipynb)
   * [Apiori](https://github.com/h30306/Learning-Notes/blob/master/data-mining/Apiori/Apiori.ipynb)
   * [PCA](https://github.com/h30306/Learning-Notes/blob/master/data-mining/PCA/PCA.ipynb)
-  * [text-visualization](https://nbviewer.jupyter.org/github/h30306/Learning-Notes/blob/master/data-mining/text-visulization/text-visualization.ipynb) ★Dynamic bar chart with matplotlib!!
+  * [Text-Visualization](https://nbviewer.jupyter.org/github/h30306/Learning-Notes/blob/master/data-mining/text-visulization/text-visualization.ipynb) ★Dynamic bar chart with matplotlib!!
   * [Politics Analysis](https://github.com/h30306/Learning-Notes/blob/master/data-mining/Politics%20Analysis/Politics%20Analasis.ipynb)
   * [Forggy Analysis Final](https://nbviewer.jupyter.org/github/h30306/Learning-Notes/blob/master/data-mining/Politics%20Analysis/Politics%20Analasis.ipynb)★BERT and PCA for artical!!
   * [Paper](https://github.com/h30306/Learning-Notes/blob/master/data-mining/論文報告attention.pdf)
@@ -20,13 +20,14 @@
     * [OCR](https://github.com/h30306/Learning-Notes/tree/master/OCR)
     * [Improve resolution](https://github.com/h30306/Learning-Notes/tree/master/RAISR)★Coolest code Ever!!
 * Project
-  * [Financial cognition](https://github.com/h30306/Learning-Notes/tree/master/Financial%20cognition)★Recognizer train by me and my friends face!!
+  * [Financial Cognition](https://github.com/h30306/Learning-Notes/tree/master/Financial%20cognition)★Recognizer train by me and my friends face!!
   * [Sentiment Analysis Using Snow NLP](https://github.com/h30306/Learning-Notes/tree/master/Snow%20NLP)
 * [LeetCode](https://github.com/h30306/Learning-Notes/tree/master/Leetcode)
 * [Coding Tips](https://github.com/h30306/Learning-Notes/tree/master/Coding-tips)
 
 ## About Me
-* [my resume](https://github.com/h30306/Learning-Notes/blob/master/other/English%20Resume.pdf)
+* [My Resume](https://github.com/h30306/Learning-Notes/blob/master/other/English%20Resume.pdf)
+* [My LinkedIn](https://www.linkedin.com/in/howard-chung-2a2686180)
 #### 鍾崴亦 Howard,Chung
 My motto:
 If there is one day is not improving, it is going backwards!
