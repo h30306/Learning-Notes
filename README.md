@@ -7,20 +7,20 @@
   * [Decision Tree](https://github.com/h30306/Learning-Notes/blob/master/data-mining/decision-tree/d-tree%20NBA.ipynb)
   * [Apiori](https://github.com/h30306/Learning-Notes/blob/master/data-mining/Apiori/Apiori.ipynb)
   * [PCA](https://github.com/h30306/Learning-Notes/blob/master/data-mining/PCA/PCA.ipynb)
-  * [text-visualization](https://nbviewer.jupyter.org/github/h30306/Learning-Notes/blob/master/data-mining/text-visulization/text-visualization.ipynb) ★Dynamic bar chart with matplotlib!
+  * [text-visualization](https://nbviewer.jupyter.org/github/h30306/Learning-Notes/blob/master/data-mining/text-visulization/text-visualization.ipynb) ★Dynamic bar chart with matplotlib!!
   * [Politics Analysis](https://github.com/h30306/Learning-Notes/blob/master/data-mining/Politics%20Analysis/Politics%20Analasis.ipynb)
-  * [Forggy Analysis Final](https://nbviewer.jupyter.org/github/h30306/Learning-Notes/blob/master/data-mining/Politics%20Analysis/Politics%20Analasis.ipynb)★BERT and PCA for artical!
+  * [Forggy Analysis Final](https://nbviewer.jupyter.org/github/h30306/Learning-Notes/blob/master/data-mining/Politics%20Analysis/Politics%20Analasis.ipynb)★BERT and PCA for artical!!
   * [Paper](https://github.com/h30306/Learning-Notes/blob/master/data-mining/論文報告attention.pdf)
 * [kaggle](https://github.com/h30306/Learning-Notes/tree/master/Kaggle)
-  * [Airbnb New User Booking](https://github.com/h30306/Learning-Notes/tree/master/Kaggle/Airbnb)★Provide the Hierarchical XGBoosting model for solution!
+  * [Airbnb New User Booking](https://github.com/h30306/Learning-Notes/tree/master/Kaggle/Airbnb)★Provide the Hierarchical XGBoosting model for solution!!
 * Self-Study
   * [Django](https://github.com/h30306/Learning-Notes/tree/master/Django)
     * [Deploy ML Model on Website](https://github.com/h30306/Learning-Notes/tree/master/Django/Deploy_ML)
   * [Image Processing]()
     * [OCR](https://github.com/h30306/Learning-Notes/tree/master/OCR)
-    * [Improve resolution](https://github.com/h30306/Learning-Notes/tree/master/RAISR)★Coolest code Ever! 
+    * [Improve resolution](https://github.com/h30306/Learning-Notes/tree/master/RAISR)★Coolest code Ever!!
 * Project
-  * [Financial cognition](https://github.com/h30306/Learning-Notes/tree/master/Financial%20cognition)
+  * [Financial cognition](https://github.com/h30306/Learning-Notes/tree/master/Financial%20cognition)★Recognizer train by me and my friends face!!
   * [Sentiment Analysis Using Snow NLP](https://github.com/h30306/Learning-Notes/tree/master/Snow%20NLP)
 * [LeetCode](https://github.com/h30306/Learning-Notes/tree/master/Leetcode)
 * [Coding Tips](https://github.com/h30306/Learning-Notes/tree/master/Coding-tips)
