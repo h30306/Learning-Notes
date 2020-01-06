@@ -32,7 +32,7 @@ I hope to have practical experience in a lot of different aspects and have a dee
 My motto:
 If one day is not improving, it is going backwards!
 ## Education
-* **Master**, Department of Big-Data Management, Soochow University,
+* **Master**, Department of Big-Data Management, Soochow University,Expected graduate in 2021/6
 * **Bachelor**, Department of Big-Data Management, Soochow University, 2020/06
 
 ## Work Experience 
