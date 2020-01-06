@@ -29,7 +29,7 @@
 * [my resume](https://github.com/h30306/Learning-Notes/blob/master/other/English%20Resume.pdf)
 #### 鍾崴亦 Howard,Chung
 My motto:
-If one day is not improving, it is going backwards!
+If there is one day is not improving, it is going backwards!
 ## Education
 * **Master**, Department of Big-Data Management, Soochow University,Expected graduate in 2021/6
 * **Bachelor**, Department of Big-Data Management, Soochow University, 2020/06
