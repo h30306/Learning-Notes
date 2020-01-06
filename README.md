@@ -7,9 +7,9 @@
   * [Decision Tree](https://github.com/h30306/Learning-Notes/blob/master/data-mining/decision-tree/d-tree%20NBA.ipynb)
   * [Apiori](https://github.com/h30306/Learning-Notes/blob/master/data-mining/Apiori/Apiori.ipynb)
   * [PCA](https://github.com/h30306/Learning-Notes/blob/master/data-mining/PCA/PCA.ipynb)
-  * [text-visualization](https://github.com/h30306/Learning-Notes/blob/master/data-mining/text-visulization/text-visualization.ipynb)
+  * [text-visualization](https://nbviewer.jupyter.org/github/h30306/Learning-Notes/blob/master/data-mining/text-visulization/text-visualization.ipynb)★
   * [Politics Analysis](https://github.com/h30306/Learning-Notes/blob/master/data-mining/Politics%20Analysis/Politics%20Analasis.ipynb)
-  * ★[Forggy Analysis Final](https://nbviewer.jupyter.org/github/h30306/Learning-Notes/blob/master/data-mining/Politics%20Analysis/Politics%20Analasis.ipynb)
+  * [Forggy Analysis Final](https://nbviewer.jupyter.org/github/h30306/Learning-Notes/blob/master/data-mining/Politics%20Analysis/Politics%20Analasis.ipynb)★
   * [Paper](https://github.com/h30306/Learning-Notes/blob/master/data-mining/論文報告attention.pdf)
 * [kaggle](https://github.com/h30306/Learning-Notes/tree/master/Kaggle)
   * [Airbnb New User Booking](https://github.com/h30306/Learning-Notes/tree/master/Kaggle/Airbnb)
@@ -38,3 +38,10 @@ If one day is not improving, it is going backwards!
 * **Data Analytics Intern**, Deloitte DA Team, 2019/09 to 2020/07
 * **Automatic Speech Recognition Summer Intern**, Delta Speech Team, 2019/07 to 2019/08
 * **Research assistant**, IF.Lab, 2018/05 to 2019/9
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+```
