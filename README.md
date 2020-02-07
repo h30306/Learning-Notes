@@ -36,7 +36,7 @@ If there is one day is not improving, it is going backwards!
 <br>
 Hi My name is Howard Chung. I am a senior in Soochow University ’s School of big Data Management. I specialize in data analysis, machine learning, and Nature Language Processing. In addition to continuous improvement in my academic work, I have also participated in big data related competitions several times to analyze data ,combine the data analysis techniques applications with different fields, improve the ability to think creatively and solve problems, and have served as the team leader for many times to lead the team to achieve good results. In these experiences, I also learned how to communicate effectively with the team and how to organize a small projects, I also worked as a speech recognition intern at Delta Electronics during the summer vacation, learning about speech feature extraction and noise processing techniques, and learning the structure of a complete project and company; then I also continued To work as a data analysis intern in Deloitte Consulting  , build a Optical Character Recognition model based on python, or deploy a machine learning model on the website, and analyze business application data, These experiences have made me move towards becoming a good data analyst. 
 * [My Resume](https://github.com/h30306/Learning-Notes/blob/master/other/English%20Resume.pdf)
-* [My LinkedIn](www.linkedin.com/in/howard-w-chung-2a2686180)
+* [My LinkedIn]((https://www.linkedin.com/in/howard-w-chung-2a2686180)
 ## Education
 * **Master**, Department of Big-Data Management, Soochow University,Expected to graduate in 2021/6
 * **Bachelor**, Department of Big-Data Management, Soochow University, 2020/06
