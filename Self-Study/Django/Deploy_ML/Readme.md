@@ -8,7 +8,7 @@ git clone https://github.com/h30306/Learning-Notes.git
 ```
 ### 2.Go to the project folder
 ```
-cd Django/Deploy_ML
+cd Self-Study/Django/Deploy_ML
 ```
 ### 3.Start server of Django
 ```
